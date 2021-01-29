@@ -1,6 +1,5 @@
-# Mercado Livre teste
+# Mercado Livre Clone UI
 
-Código do projeto de teste para vaga de Desenvolvedor Front-end do Mercado Livre.
 
 ## Tecnologia utilizada
 
@@ -19,12 +18,6 @@ O backend está acoplado a aplicação, o que significa que com um único comand
 - node-sass.
 
 ## Instalação 
-
-Clone este projeto
-
-`` 
-git clone git@github.com:daniloagostinho/mercado-livre-test.git
-``
 
 entre na pasta do projeto
 **cd mercado-livre-test/** e instale as dependências da api backend.
@@ -53,12 +46,5 @@ Será aberto automaticamente o navegador com o teste no endereço **http://local
 
 ### Preview
 
-<img src="https://raw.githubusercontent.com/daniloagostinho/mercado-livre-test/feature/create-readme/preview.png"/>
+<img src=""/>
 
-### Extra
-
-- Para o controle de criação de branch foi utilizado o Git Flow. O historico das branchs pode ser encontrado clicando <a href="https://github.com/daniloagostinho/mercado-livre-test/pulls?q=is%3Apr+author%3Adaniloagostinho+is%3Aclosed">aqui</a>;
-- O projeto possui meta tags de relevância SEO;
-- O css foi escrito com o pré-processador SASS para ser escalável.
- 
-Qualquer dúvida favor entrar em contato comigo através do meu e-mail: **danilodev.silva@gmail.com**
